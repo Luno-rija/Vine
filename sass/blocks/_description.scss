@@ -1,0 +1,27 @@
+.description{
+    height: 856px;
+    background: #282828;
+    border: 3px solid #ffffff;
+    &__wrapper{
+        width: 1100px;
+        height: 656px;
+        margin: 100px auto;
+        padding: 70px 182px 50px 182px;
+        border: 3px solid #ffffff;
+    }
+    
+    &__text{
+        margin-top: 40px;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 150%;
+        text-align: center;
+        color: #FFFFFF;
+    }
+    &__img{
+        width: 160px;
+        height: 160px;
+        margin: 0 auto;
+        margin-top: 45px;
+    }
+}
